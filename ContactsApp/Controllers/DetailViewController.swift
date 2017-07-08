@@ -112,9 +112,11 @@ class DetailViewController: UITableViewController {
         self.view.endEditing(true)
     }
     
-    // just for testing puropse. Quickly fill all textfields
+    // MARK: - Testing
+    
     @IBAction func testButtonAction(_ sender: Any) {
         
+        // Quickly fill all textfields
         firstNameField.text = "John"
         lastNameField.text = "Doe"
         phoneNumberField.text = "555-15-10"
