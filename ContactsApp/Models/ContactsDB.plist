@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>firstName</key>
+		<string>Edward</string>
+		<key>lastName</key>
+		<string>Quevedo</string>
+		<key>phoneNumber</key>
+		<string>(283) 843-9772</string>
+		<key>streetAddress</key>
+		<string>8785 Windfall St</string>
+		<key>city</key>
+		<string>Whitehall</string>
+		<key>zip</key>
+		<string>18052</string>
+		<key>avatarName</key>
+		<string>EdwardQuevedo</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Lisa</string>
+		<key>lastName</key>
+		<string>Jennings</string>
+		<key>phoneNumber</key>
+		<string>(323) 789-1103</string>
+		<key>streetAddress</key>
+		<string>711 Old York Drive</string>
+		<key>city</key>
+		<string>Richmond</string>
+		<key>zip</key>
+		<string>23223</string>
+		<key>avatarName</key>
+		<string>LisaJennings</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Jarrod</string>
+		<key>lastName</key>
+		<string>Stanford</string>
+		<key>phoneNumber</key>
+		<string>(457) 213-9438</string>
+		<key>streetAddress</key>
+		<string>665 Clinton Lane</string>
+		<key>city</key>
+		<string>Wilkes Barre</string>
+		<key>zip</key>
+		<string>18702</string>
+		<key>avatarName</key>
+		<string>JarrodStanford</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Tayanita</string>
+		<key>lastName</key>
+		<string>Page</string>
+		<key>phoneNumber</key>
+		<string>(722) 279-7386</string>
+		<key>streetAddress</key>
+		<string>787 Lakeview St</string>
+		<key>city</key>
+		<string>Marion</string>
+		<key>zip</key>
+		<string>28752</string>
+		<key>avatarName</key>
+		<string>TayanitaPage</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Katherine</string>
+		<key>lastName</key>
+		<string>Reese</string>
+		<key>phoneNumber</key>
+		<string>(686) 607-2888</string>
+		<key>streetAddress</key>
+		<string>3 Blackburn Street</string>
+		<key>city</key>
+		<string>Oshkosh</string>
+		<key>zip</key>
+		<string>54901</string>
+		<key>avatarName</key>
+		<string>KatherineReese</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Selina</string>
+		<key>lastName</key>
+		<string>Mejia</string>
+		<key>phoneNumber</key>
+		<string>(424) 439-2683</string>
+		<key>streetAddress</key>
+		<string>9409 Armstrong Rd</string>
+		<key>city</key>
+		<string>Dalton</string>
+		<key>zip</key>
+		<string>30721</string>
+		<key>avatarName</key>
+		<string>SelinaMejia</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Tobias</string>
+		<key>lastName</key>
+		<string>Ray</string>
+		<key>phoneNumber</key>
+		<string>(601) 663-8062</string>
+		<key>streetAddress</key>
+		<string>7142B East Talbot Dr</string>
+		<key>city</key>
+		<string>Sevierville</string>
+		<key>zip</key>
+		<string>37876</string>
+		<key>avatarName</key>
+		<string>TobiasRay</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Alissa</string>
+		<key>lastName</key>
+		<string>Murashev</string>
+		<key>phoneNumber</key>
+		<string>(991) 772-1273</string>
+		<key>streetAddress</key>
+		<string>8120 Delaware St</string>
+		<key>city</key>
+		<string>San Lorenzo</string>
+		<key>zip</key>
+		<string>94580</string>
+		<key>avatarName</key>
+		<string>AlissaMurashev</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Harpreet</string>
+		<key>lastName</key>
+		<string>Singh</string>
+		<key>phoneNumber</key>
+		<string>(981) 519-3547</string>
+		<key>streetAddress</key>
+		<string>17 Sadovaya Street</string>
+		<key>city</key>
+		<string>St. Petersburg</string>
+		<key>zip</key>
+		<string>190160</string>
+		<key>avatarName</key>
+		<string>HarpreetSingh</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Amanda</string>
+		<key>lastName</key>
+		<string>Carpenter</string>
+		<key>phoneNumber</key>
+		<string>(461) 797-8785</string>
+		<key>streetAddress</key>
+		<string>9968 Windfall Drive</string>
+		<key>city</key>
+		<string>Elyria</string>
+		<key>zip</key>
+		<string>44035</string>
+		<key>avatarName</key>
+		<string>AmandaCarpenter</string>
+	</dict>
+</array>
+</plist>
